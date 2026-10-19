@@ -1,0 +1,9 @@
+boto3
+python-dotenv
+fastapi
+uvicorn[standard]
+pydantic
+langchain-aws
+langchain-core
+python-docx
+python-multipart
